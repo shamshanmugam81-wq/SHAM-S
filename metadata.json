@@ -1,0 +1,6 @@
+{
+  "name": "Smart SOS",
+  "description": "Smart Emergency SOS Mobile Application with fast SOS mechanism, GPS location sharing, emergency contacts, SMS/Call alerts, panic alarm, and emergency history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
